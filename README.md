@@ -3,9 +3,9 @@ This is collection of notebooks to implement Entity Extraction on semi-structure
 The scanned receipts data is provided at https://rrc.cvc.uab.es/?ch=13&com=downloads. 
 
 To Generate OCR part:
-Install tesseract: https://github.com/tesseract-ocr/tesseract
-LSTM models: https://github.com/tesseract-ocr/tessdata
-Use generate_tesseract_results.py : https://github.com/Praneet9/Representation-Learning-for-Information-Extraction
+* Install tesseract: https://github.com/tesseract-ocr/tesseract
+* LSTM models: https://github.com/tesseract-ocr/tessdata
+* Use generate_tesseract_results.py : https://github.com/Praneet9/Representation-Learning-for-Information-Extraction
 
 
 Main Notebooks:
