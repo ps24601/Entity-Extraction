@@ -13,3 +13,5 @@ Main Notebooks:
 2. Coordinates: Used the coordinates only information to make prediction if the token is part of entity.
 3. Attention model: Implements the Attention model and uses coordiantes information fo Entity extraction.
 4. Spacy_NER: Employs the Spacy Entity Extraction
+
+A sample of jsonl is provided for reference.
